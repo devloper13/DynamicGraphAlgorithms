@@ -37,10 +37,10 @@ Name of the report : APSReport.pdf
     Example: ./a.out < ./Testcases/Input/test1 > output1
 
     You may check the accuracy from the already existing output files.
-    The output file for test1 is output1, test 2 is output2 and so on. 
+     
     
     Input  files are present in /Testcases/Input
     
-    Output files are present in the /Testcases/Output   
+  
     
 

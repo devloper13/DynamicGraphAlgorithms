@@ -18,6 +18,7 @@ Name of the report : APSReport.pdf
     The output file for testcase1000 is output1000, testcase 2000 is output2000 and so on.
     
     Input  files are present in /Testcases/Input
+    
     Output files are present in /Testcases/Output
     
     
@@ -39,6 +40,7 @@ Name of the report : APSReport.pdf
     The output file for test1 is output1, test 2 is output2 and so on. 
     
     Input  files are present in /Testcases/Input
-    Output files diff present in the /Testcases/Output   
+    
+    Output files are present in the /Testcases/Output   
     
 

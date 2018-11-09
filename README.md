@@ -1,6 +1,6 @@
 # DynamicGraphAlgorithms
 
-Name of the report : APSProject.pdf
+Name of the report : APSReport.pdf
 
 1. Dynamic Dijkstra's Algorithm:
 
